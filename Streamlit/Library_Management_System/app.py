@@ -39,7 +39,6 @@ body {
     margin-bottom: 20px;
 }
 
-
 /* Button styling */
 .stButton>button {
     border-radius: 8px;
