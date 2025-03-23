@@ -10,7 +10,7 @@ st.sidebar.markdown(
             font-weight: bold;
         }
     </style>
-    <h1>A K Library</h1>      
+    <h1>Khan Library</h1>      
     """,
     unsafe_allow_html=True
 )
