@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 # Custom CSS for the sidebar
 st.sidebar.markdown(
     """
@@ -30,6 +31,7 @@ body {
     padding: 20px;
     border-radius: 10px;
 }
+
 
 .sidebar h1 {
     font-size: 24px;
