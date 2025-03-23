@@ -32,7 +32,6 @@ body {
     border-radius: 10px;
 }
 
-
 .sidebar h1 {
     font-size: 24px;
     font-weight: bold;
